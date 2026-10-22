@@ -1,0 +1,5 @@
+{
+  "clientId": "YOUR_YOUTUBE_CLIENT_ID",
+  "clientSecret": "YOUR_YOUTUBE_CLIENT_SECRET",
+  "redirectUri": "https://marketmix-youtube-server.onrender.com/auth/youtube/callback"
+}
